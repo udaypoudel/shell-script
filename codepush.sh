@@ -12,5 +12,5 @@
     sum=$(($a + $b))
     echo " sum is $sum "
 
-    djfbnedk;flvc
+    
     
